@@ -1,0 +1,14 @@
+html,body{
+    height: 100%;
+}
+body {
+
+}
+
+
+#loader{
+    position: absolute;
+    right: 0px;
+    bottom: 0px;
+
+}

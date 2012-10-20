@@ -1,0 +1,16 @@
+SockJS v0.3.3 bound to "/data"
+ [*] Listening on 0.0.0.0:9999
+GET /data/info 0ms 200
+POST /data/706/kveoxn0f/xhr_streaming 1ms (unfinished)
+POST /data/706/b_3q38_h/xhr 1ms 200
+POST /data/706/b_3q38_h/xhr 0ms 200
+POST /data/706/b_3q38_h/xhr 0ms (unfinished)
+POST /data/706/b_3q38_h/xhr_send 1ms 204
+POST /data/706/b_3q38_h/xhr 0ms (unfinished)
+GET /data/info 0ms 200
+POST /data/875/aoqsqb3b/xhr_streaming 1ms (unfinished)
+POST /data/875/guhn0e7g/xhr 1ms 200
+POST /data/875/guhn0e7g/xhr 0ms 200
+POST /data/875/guhn0e7g/xhr_send 1ms 204
+POST /data/875/guhn0e7g/xhr 0ms (unfinished)
+POST /data/875/guhn0e7g/xhr 0ms (unfinished)

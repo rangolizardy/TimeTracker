@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+
+<html lang="en">
+    <head>
+        <meta charset="utf-8" />
+        <script src="http://cdn.sockjs.org/sockjs-0.3.min.js"></script>
+
+       
+        <script src="/public/jslib/jquery-1.8.2.min.js"></script>
+        <script type="text/javascript" src="/public/bootstrap/js/jquery-ui-1.8.16.custom.min.js"></script>
+        <script type="text/javascript" src="/public/bootstrap/third-party/jQuery-UI-Date-Range-Picker/js/date.js"></script>
+        <script type="text/javascript" src="/public/bootstrap/third-party/jQuery-UI-Date-Range-Picker/js/daterangepicker.jQuery.js"></script>
+        <script src="/public/bootstrap/third-party/jQuery-UI-FileInput/js/enhance.min.js" type="text/javascript"></script>
+        <script src="/public/bootstrap/third-party/jQuery-UI-FileInput/js/fileinput.jquery.js" type="text/javascript"></script>
+       
+        <script src="/public/jslib/knockout-2.1.0.js"></script>
+        <script src="/public/jslib/knockout-jquery-ui-widget.js"></script>
+
+        <!-- Done with preload -->
+        <script src="/public/cp.js"></script>
+
+
+
+        <link type="text/css" href="/public/bootstrap/css/custom-theme/jquery-ui-1.8.16.custom.css" rel="stylesheet" />
+        <link rel="stylesheet" href="/public/bootstrap/css/bootstrap.css" />
+        <link rel="stylesheet" href="/public/css/main.css" />
+
+        <title></title>
+    </head>
+    <body>
+        <h1>Dev Console</h1>
+        <h3>Server Response</h3>
+        <code id="Respons"></code>
+        <h3>Server query</h3>
+        <input type="text" id="Query"><button id="Send">Send</button>
+        <h3>Quick Commands</h3>
+        <code>
+            { "Action": "DevUp" }<br>
+            { "Action": "ListUsers" }<br>
+            { "Action": "Register" }<br>
+            { "Action": "Purge" }<br>
+        </code>
+                <img src="/public/img/loader.gif" alt="loader" id="loader" style="display: none;"> 
+    </body>
+</html>
