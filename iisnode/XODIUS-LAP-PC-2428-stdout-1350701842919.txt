@@ -1,2 +1,0 @@
-SockJS v0.3.3 bound to "/data"
- [*] Listening on 0.0.0.0:9999

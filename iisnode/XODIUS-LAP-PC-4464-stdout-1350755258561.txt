@@ -1,3 +1,0 @@
-SockJS v0.3.3 bound to "/data"
- [*] Listening on 0.0.0.0:9999
-POST /data/077/m40fnmh1/xhr 2ms 200
