@@ -10,6 +10,7 @@ lib-cov
 pids
 logs
 results
+iisnode
 
 node_modules
 npm-debug.log
